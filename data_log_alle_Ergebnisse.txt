@@ -1,0 +1,525 @@
+Model: answerdotai/ModernBERT-base
+Size: 49545
+Time: 609.4740915298462
+Epochs: 4
+Batch Size: 256
+Learning Rate: 5e-05
+Gradient Norm Clipping: 1.0
+Max Length: 256
+Padding: max_length
+Truncation: True
+Validation Size: 0.2
+Validation Loss: [0.2405849611147856, 0.2255256401422696, 0.36682238372472614, 0.45697221618432265]
+Training Loss: [0.30070442413130116, 0.1547208012592408, 0.06280645324337868, 0.017885130354683965]
+Validation Accuracy: [0.9016138528828446, 0.9120034043419748, 0.9070883579473014, 0.9061697611205554]
+--------------------
+Model: answerdotai/ModernBERT-base
+Size: 49545
+Time: 272.87429451942444
+Epochs: 4
+Batch Size: 256
+Learning Rate: 5e-05
+Gradient Norm Clipping: 1.0
+Max Length: 128
+Padding: max_length
+Truncation: True
+Validation Size: 0.2
+Validation Loss: [0.2375376086968642, 0.23597266085636923, 0.35469763171978486, 0.47778861492108077]
+Training Loss: [0.314397949461014, 0.1671725076533133, 0.0719848143357423, 0.0207876676978964]
+Validation Accuracy: [0.901762709838504, 0.9037244120980308, 0.8988923714407141, 0.898433073027341]
+--------------------
+Model: answerdotai/ModernBERT-base
+Size: 49545
+Time: 136.29289269447327
+Epochs: 4
+Batch Size: 256
+Learning Rate: 5e-05
+Gradient Norm Clipping: 1.0
+Max Length: 64
+Padding: max_length
+Truncation: True
+Validation Size: 0.2
+Validation Loss: [0.2697036812702815, 0.2543456455071767, 0.35152137470551026, 0.4990582030553084]
+Training Loss: [0.33468898352115384, 0.1936686118764262, 0.09576493124327352, 0.031081682395550512]
+Validation Accuracy: [0.8900124176583085, 0.8958875637484064, 0.8883168871299051, 0.8872151243093922]
+--------------------
+Model: answerdotai/ModernBERT-base
+Size: 49545
+Time: 591.671835899353
+Epochs: 4
+Batch Size: 256
+Learning Rate: 5e-05
+Gradient Norm Clipping: 1.0
+Max Length: 256
+Padding: max_length
+Truncation: True
+Validation Size: 0.2
+Validation Loss: [0.2363119858961839, 0.22305573561252692, 0.3079617737959593, 0.41584805914988887]
+Training Loss: [0.30256862092402675, 0.15941245507809423, 0.06974656486943845, 0.02228910381785564]
+Validation Accuracy: [0.9042838707678141, 0.9118960502549937, 0.9112950887165321, 0.909516552450772]
+--------------------
+Model: answerdotai/ModernBERT-base
+Size: 49545
+Time: 735.5208556652069
+Epochs: 2
+Batch Size: 64
+Learning Rate: 5e-05
+Gradient Norm Clipping: 1.0
+Max Length: 512
+Padding: max_length
+Truncation: True
+Validation Size: 0.2
+Validation Loss: [0.24393573422585765, 0.23095389195988256]
+Training Loss: [0.2625113516685463, 0.12465645198019282]
+Validation Accuracy: [0.9005382684114425, 0.915621195982958]
+--------------------
+Model: answerdotai/ModernBERT-base
+Size: 49545
+Time: 320.77400636672974
+Epochs: 2
+Batch Size: 64
+Learning Rate: 5e-05
+Gradient Norm Clipping: 1.0
+Max Length: 256
+Padding: max_length
+Truncation: True
+Validation Size: 0.2
+Validation Loss: [0.251497234211814, 0.23544675676572707]
+Training Loss: [0.2691763007953282, 0.12800983142017597]
+Validation Accuracy: [0.8984213329275715, 0.9139664485696897]
+--------------------
+Model: answerdotai/ModernBERT-base
+Size: 49545
+Time: 442.7553822994232
+Epochs: 3
+Batch Size: 256
+Learning Rate: 0.0005
+Gradient Norm Clipping: 1.0
+Max Length: 256
+Padding: max_length
+Truncation: True
+Validation Size: 0.2
+Validation Loss: [0.40511065415847, 0.3442046657586709, 0.39986236278827375]
+Training Loss: [0.6190445819208699, 0.3001199225264211, 0.15779998922540295]
+Validation Accuracy: [0.8156962742598102, 0.8451090806063183, 0.852020138298626]
+--------------------
+Model: answerdotai/ModernBERT-base
+Size: 49545
+Time: 740.070071220398
+Epochs: 5
+Batch Size: 256
+Learning Rate: 0.0005
+Gradient Norm Clipping: 1.0
+Max Length: 256
+Padding: max_length
+Truncation: True
+Validation Size: 0.2
+Validation Loss: [0.3829973110785851, 0.24890487316327217, 0.2307487890506402, 0.25342981937604075, 0.3251521786053975]
+Training Loss: [0.5500814351343339, 0.2885951296937081, 0.21200624723588266, 0.14630246965154525, 0.08694192875296838]
+Validation Accuracy: [0.8298847216319593, 0.8951034362161778, 0.9080313031236719, 0.9043840310242245, 0.8967303486683667]
+--------------------
+Model: answerdotai/ModernBERT-base
+Size: 49545
+Time: 1955.1749911308289
+Epochs: 2
+Batch Size: 64
+Learning Rate: 5e-05
+Gradient Norm Clipping: 1.0
+Max Length: 1024
+Padding: max_length
+Truncation: True
+Validation Size: 0.2
+Validation Loss: [0.24375658511154114, 0.2283304931656007]
+Training Loss: [0.2774120840694635, 0.128272011004869]
+Validation Accuracy: [0.9001559646987219, 0.9155793517954961]
+--------------------
+Model: answerdotai/ModernBERT-base
+Size: 49545
+Time: 335.5147099494934
+Epochs: 2
+Batch Size: 64
+Learning Rate: 5e-05
+Gradient Norm Clipping: 1.0
+Max Length: 256
+Padding: max_length
+Truncation: True
+Validation Size: 0.2
+Validation Loss: [0.25048440738070393, 0.23346554639358674]
+Training Loss: [0.2632551250438536, 0.12151572205907395]
+Validation Accuracy: [0.8993076688983567, 0.9165075319537431]
+--------------------
+Model: answerdotai/ModernBERT-base
+Size: 49545
+Time: 136.95254230499268
+Epochs: 2
+Batch Size: 256
+Learning Rate: 7e-05
+Gradient Norm Clipping: 1.0
+Max Length: 128
+Padding: max_length
+Truncation: True
+Validation Size: 0.2
+Validation Loss: [0.3589087098072737, 0.25457757596786207]
+Training Loss: [0.5306160159649388, 0.2797948573866198]
+Validation Accuracy: [0.8445739702861595, 0.8924406121617793]
+--------------------
+Model: answerdotai/ModernBERT-base
+Size: 49545
+Time: 205.523588180542
+Epochs: 3
+Batch Size: 256
+Learning Rate: 1e-05
+Gradient Norm Clipping: 1.0
+Max Length: 128
+Padding: max_length
+Truncation: True
+Validation Size: 0.2
+Validation Loss: [0.5705643800588754, 0.40195930233368504, 0.30139993322201264]
+Training Loss: [0.6600269852146026, 0.4654490907346049, 0.33240162307216276]
+Validation Accuracy: [0.7104405723190254, 0.8145701630896728, 0.8685781227865136]
+--------------------
+Model: answerdotai/ModernBERT-base
+Size: 49545
+Time: 205.67603397369385
+Epochs: 3
+Batch Size: 256
+Learning Rate: 7e-05
+Gradient Norm Clipping: 1.0
+Max Length: 128
+Padding: max_length
+Truncation: True
+Validation Size: 0.2
+Validation Loss: [0.23608247439066568, 0.23905404676229525, 0.3234673704092319]
+Training Loss: [0.31352338290983633, 0.15833215742341933, 0.06450267717722924]
+Validation Accuracy: [0.9023221685082873, 0.9057519655758606, 0.9022220082518769]
+--------------------
+Model: answerdotai/ModernBERT-base
+Size: 49545
+Time: 205.43316435813904
+Epochs: 3
+Batch Size: 256
+Learning Rate: 9e-05
+Gradient Norm Clipping: 1.0
+Max Length: 128
+Padding: max_length
+Truncation: True
+Validation Size: 0.2
+Validation Loss: [0.3318398667451663, 0.2508594103348561, 0.24439396422642928]
+Training Loss: [0.5090870465001752, 0.2668181740468548, 0.19752119058562864]
+Validation Accuracy: [0.8608585892123529, 0.8951449390848563, 0.901821367226236]
+--------------------
+Model: answerdotai/ModernBERT-base
+Size: 49545
+Time: 274.0424003601074
+Epochs: 4
+Batch Size: 256
+Learning Rate: 7e-05
+Gradient Norm Clipping: 1.0
+Max Length: 128
+Padding: max_length
+Truncation: True
+Validation Size: 0.2
+Validation Loss: [0.359789517445442, 0.2584653806227904, 0.2463404792241561, 0.28746414528443265]
+Training Loss: [0.5365507148927258, 0.2821340746456577, 0.21127349484351374, 0.13940795136074866]
+Validation Accuracy: [0.8437654944043066, 0.8894358044694716, 0.8985990845020541, 0.894927464052982]
+--------------------
+Model: answerdotai/ModernBERT-base
+Size: 49545
+Time: 205.8103530406952
+Epochs: 3
+Batch Size: 256
+Learning Rate: 5e-05
+Gradient Norm Clipping: 2.0
+Max Length: 128
+Padding: max_length
+Truncation: True
+Validation Size: 0.2
+Validation Loss: [0.3956750394442143, 0.26028840702313644, 0.24589976133444372]
+Training Loss: [0.5596706317317102, 0.3029474142097658, 0.22253557097527288]
+Validation Accuracy: [0.8213639060065165, 0.8906963849341266, 0.8990755374344809]
+--------------------
+Model: answerdotai/ModernBERT-base
+Model: AdamW
+Size: 1872282
+Time: 8452.505299329758
+Epochs: 3
+Batch Size: 256
+Learning Rate: 5e-05
+Gradient Norm Clipping: 1.0
+Max Length: 128
+Padding: max_length
+Truncation: True
+Validation Size: 0.1
+Validation Loss: [0.1729103086383942, 0.16914367337858743, 0.22838364034646846]
+Training Loss: [0.18803589646529775, 0.12705026816146073, 0.063060863033366]
+Precision: [0.9533808946919728, 0.9393815805007889, 0.9403632508681025]
+Recall: [0.9090539601048184, 0.936146317984919, 0.9297823413016739]
+F1-Score: [0.9306899251545364, 0.9377611588488654, 0.9350428637502823]
+Validation Accuracy: [0.932380951069393, 0.9379642100373113, 0.9354907566543275]
+--------------------
+Model: answerdotai/ModernBERT-base
+Model: AdamW
+Size: 1872282
+Time: 6335.336504936218
+Epochs: 2
+Batch Size: 128
+Learning Rate: 5e-05
+Gradient Norm Clipping: 1.0
+Max Length: 128
+Padding: max_length
+Truncation: True
+Validation Size: 0.1
+Validation Loss: [0.17405539652509633, 0.170285670666033]
+Training Loss: [0.1874205624546744, 0.11835234969192207]
+Precision: [0.9560417254017479, 0.9420864008290334]
+Recall: [0.906754371891545, 0.9334509866837799]
+F1-Score: [0.930746006477466, 0.9377488140200824]
+Validation Accuracy: [0.9326178119418782, 0.9381147379078194]
+--------------------
+Model: answerdotai/ModernBERT-base
+Model: AdamW
+Size: 1872282
+Time: 6910.827214717865
+Epochs: 2
+Batch Size: 64
+Learning Rate: 5e-05
+Gradient Norm Clipping: 1.0
+Max Length: 128
+Padding: max_length
+Truncation: True
+Validation Size: 0.1
+Validation Loss: [0.17277080920459326, 0.173040339387113]
+Training Loss: [0.19061657313962502, 0.120263603256112]
+Precision: [0.9505333763445645, 0.9418920961160647]
+Recall: [0.9139740093053105, 0.9332584630194128]
+F1-Score: [0.9318952637490867, 0.9375554039315973]
+Validation Accuracy: [0.9332898272326584, 0.9379196546420911]
+--------------------
+Model: answerdotai/ModernBERT-base
+Model: AdamW
+Size: 1872282
+Time: 5359.828028917313
+Epochs: 2
+Batch Size: 512
+Learning Rate: 5e-05
+Gradient Norm Clipping: 1.0
+Max Length: 128
+Padding: max_length
+Truncation: True
+Validation Size: 0.1
+Validation Loss: [0.16846590766001268, 0.16774112778038927]
+Training Loss: [0.18979177872943415, 0.12899063806188715]
+Precision: [0.9407650012471668, 0.9416597393904717]
+Recall: [0.9278250173806086, 0.9329375902454676]
+F1-Score: [0.9342502046267177, 0.9372783735574133]
+Validation Accuracy: [0.9347876372970391, 0.9376529362288035]
+--------------------
+Model: answerdotai/ModernBERT-base
+Model: AdamW
+Size: 1872282
+Time: 8888.773617982864
+Epochs: 3
+Batch Size: 256
+Learning Rate: 4e-05
+Gradient Norm Clipping: 1.0
+Max Length: 128
+Padding: max_length
+Truncation: True
+Validation Size: 0.1
+Validation Loss: [0.17187484389405108, 0.17047133867735745, 0.2211584330846866]
+Training Loss: [0.18833659641692546, 0.12956777408992956, 0.06870150674498364]
+Precision: [0.9514015776104104, 0.9353484556293085, 0.9398482444494813]
+Recall: [0.9133536552756832, 0.9389699983956361, 0.9313439221348735]
+F1-Score: [0.9319894570834539, 0.937155728254836, 0.9355767577789238]
+Validation Accuracy: [0.9334268868617427, 0.9371223774715025, 0.9359590407228686]
+--------------------
+Model: microsoft/deberta-v3-base
+Optimizer: AdamW
+Size: 162048
+Time: 259.5932445526123
+Epochs: 1
+Batch Size: 256
+Learning Rate: 5e-05
+Gradient Norm Clipping: 1.0
+Max Length: 128
+Padding: max_length
+Truncation: True
+Validation Size: 0.1
+Validation Loss: [0.19560475461184978]
+Training Loss: [0.23720230583036156]
+Precision: [0.9241670810542019]
+Recall: [0.9176644858659425]
+F1-Score: [0.9209043047383091]
+Validation Accuracy: [0.9212067839387176]
+--------------------
+Model: roberta-base
+Optimizer: AdamW
+Size: 162048
+Time: 149.19274401664734
+Epochs: 1
+Batch Size: 256
+Learning Rate: 5e-05
+Gradient Norm Clipping: 1.0
+Max Length: 128
+Padding: max_length
+Truncation: True
+Validation Size: 0.1
+Validation Loss: [0.21047695446759462]
+Training Loss: [0.2600719957236658]
+Precision: [0.9160163507989595]
+Recall: [0.9128502653993334]
+F1-Score: [0.9144305675775937]
+Validation Accuracy: [0.9148179091416396]
+--------------------
+Model: distilroberta-base
+Optimizer: AdamW
+Size: 162048
+Time: 76.5368640422821
+Epochs: 1
+Batch Size: 256
+Learning Rate: 5e-05
+Gradient Norm Clipping: 1.0
+Max Length: 128
+Padding: max_length
+Truncation: True
+Validation Size: 0.1
+Validation Loss: [0.23898351239040494]
+Training Loss: [0.28903213446600395]
+Precision: [0.9008742765669252]
+Recall: [0.9030983829156894]
+F1-Score: [0.9019849586980643]
+Validation Accuracy: [0.9023865538758117]
+--------------------
+Model: distilroberta-base
+Optimizer: AdamW
+Size: 1872282
+Time: 2735.3318202495575
+Epochs: 3
+Batch Size: 256
+Learning Rate: 5e-05
+Gradient Norm Clipping: 1.0
+Max Length: 128
+Padding: max_length
+Truncation: True
+Validation Size: 0.1
+Validation Loss: [0.20041879281768057, 0.18874064842086347, 0.18803770797418767]
+Training Loss: [0.22454989082532942, 0.17695613825484627, 0.15017674397663036]
+Precision: [0.9144864468096262, 0.9269892829285493, 0.9352253032928943]
+Recall: [0.9327771538584951, 0.9279212792127921, 0.9234718434140863]
+F1-Score: [0.9235412474849095, 0.9274550469307906, 0.9293114118881683]
+Validation Accuracy: [0.9228768100174805, 0.9275181644412127, 0.9298501743455843]
+--------------------
+Model: bert-base-uncased
+Optimizer: AdamW
+Size: 1872282
+Time: 5298.101231098175
+Epochs: 3
+Batch Size: 256
+Learning Rate: 5e-05
+Gradient Norm Clipping: 1.0
+Max Length: 128
+Padding: max_length
+Truncation: True
+Validation Size: 0.1
+Validation Loss: [0.1898622914965524, 0.182685749106557, 0.19510767636362647]
+Training Loss: [0.2132956476936709, 0.15735421504711608, 0.11415420641315377]
+Precision: [0.9435416504237996, 0.9322203242337319, 0.9371225346156765]
+Recall: [0.9060805390662602, 0.9280924113588962, 0.9244130702176587]
+F1-Score: [0.9244317375789783, 0.9301517880113197, 0.9307244160627173]
+Validation Accuracy: [0.9260346432663493, 0.9303998242772783, 0.9312856678565132]
+--------------------
+Model: roberta-base
+Optimizer: AdamW
+Size: 1872282
+Time: 5353.047680854797
+Epochs: 3
+Batch Size: 256
+Learning Rate: 5e-05
+Gradient Norm Clipping: 1.0
+Max Length: 128
+Padding: max_length
+Truncation: True
+Validation Size: 0.1
+Validation Loss: [0.1911888708324869, 0.17607027487676652, 0.1771930635911845]
+Training Loss: [0.20948351232087958, 0.16397291073751327, 0.13307050945126647]
+Precision: [0.9171954579610921, 0.9351670785430322, 0.9409172603451635]
+Recall: [0.9399647039948661, 0.9309160917696133, 0.9295149473233862]
+F1-Score: [0.9284405026649271, 0.9330367432262214, 0.9351813491017288]
+Validation Accuracy: [0.9276515746188083, 0.9332855007638522, 0.9356748913897703]
+--------------------
+Model: microsoft/deberta-v3-base
+Optimizer: AdamW
+Size: 1872282
+Time: 8970.303110837936
+Epochs: 3
+Batch Size: 256
+Learning Rate: 5e-05
+Gradient Norm Clipping: 1.0
+Max Length: 128
+Padding: max_length
+Truncation: True
+Validation Size: 0.1
+Validation Loss: [0.1728601543324404, 0.1681313589011711, 0.17525962939679296]
+Training Loss: [0.1906299406718324, 0.14798681090905477, 0.11546796369410912]
+Precision: [0.9328207203561312, 0.9435482124683311, 0.9459315589353612]
+Recall: [0.9368415423284667, 0.9321140167923418, 0.931311834857479]
+F1-Score: [0.9348268078316693, 0.9377962627181112, 0.9385647686545043]
+Validation Accuracy: [0.9347890478105353, 0.9382777382998414, 0.9391422362506611]
+--------------------
+Model: roberta-large
+Optimizer: AdamW
+Size: 1872282
+Time: 15484.32450246811
+Epochs: 3
+Batch Size: 256
+Learning Rate: 5e-05
+Gradient Norm Clipping: 1.0
+Max Length: 128
+Padding: max_length
+Truncation: True
+Validation Size: 0.1
+Validation Loss: [0.7042507362333151, 0.7318745228599329, 0.7346036666240848]
+Training Loss: [0.6907547534227407, 0.6866196742829953, 0.6852713628650418]
+Precision: [0.4993617441742465, 0.4993617441742465, 0.4993617441742465]
+Recall: [1.0, 1.0, 1.0]
+F1-Score: [0.6660990866473832, 0.6660990866473832, 0.6660990866473832]
+Validation Accuracy: [0.4993669758798989, 0.4993669758798989, 0.4993669758798989]
+--------------------
+Model: answerdotai/ModernBert-large
+Optimizer: AdamW
+Size: 1872282
+Time: 19720.524386167526
+Epochs: 3
+Batch Size: 256
+Learning Rate: 5e-05
+Gradient Norm Clipping: 1.0
+Max Length: 128
+Padding: max_length
+Truncation: True
+Validation Size: 0.1
+Validation Loss: [0.1594134487333845, 0.15771430923191251, 0.22784907138738475]
+Training Loss: [0.1772117636499118, 0.11678316526779302, 0.04990435857368235]
+Precision: [0.9412100026888949, 0.9487928581513299, 0.9438601033474654]
+Recall: [0.9359751858388149, 0.9344029092464837, 0.9358040536927108]
+F1-Score: [0.9385852952217515, 0.9415429051796608, 0.9398148148148149]
+Validation Accuracy: [0.93882199444371, 0.9420638904496446, 0.9401441036488629]
+--------------------
+Model: bert-large-uncased
+Optimizer: AdamW
+Size: 1872282
+Time: 15500.663840770721
+Epochs: 3
+Batch Size: 256
+Learning Rate: 5e-05
+Gradient Norm Clipping: 1.0
+Max Length: 128
+Padding: max_length
+Truncation: True
+Validation Size: 0.1
+Validation Loss: [0.1851119461566047, 0.17734494910173404, 0.19462321146996947]
+Training Loss: [0.21117028827958242, 0.1553724730778081, 0.10577135567019844]
+Precision: [0.9279587050344303, 0.9380829099732444, 0.9376774820493441]
+Recall: [0.9267875287448527, 0.926263436547409, 0.928851810257233]
+F1-Score: [0.927372747121024, 0.9321357070587476, 0.9332437805598839]
+Validation Accuracy: [0.9275181644412127, 0.9326611411327047, 0.9336350067387919]
+--------------------
